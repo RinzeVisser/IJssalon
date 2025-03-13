@@ -1,2 +1,2 @@
 print ("Hello, World")
-print ("van deze regel krijg ik later spijt")
+print ("Welkom in onze IJssalon")
